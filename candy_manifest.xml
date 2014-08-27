@@ -8,16 +8,16 @@
   <project name="SlimRoms/kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="kk4.4" />
   <project name="CandyKat/kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="ck44" />
   <project name="SlimRoms/kernel_lge_mako" path="kernel/lge/mako" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_asus" path="vendor/asus" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_broadcom" path="vendor/broadcom" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_elan" path="vendor/elan" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_imgtec" path="vendor/imgtec" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_invensense" path="vendor/invensense" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_lge" path="vendor/lge" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_nvidia" path="vendor/nvidia" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_nxp" path="vendor/nxp" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_qcom" path="vendor/qcom" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_samsung" path="vendor/samsung" remote="github" revision="kk4.4" />
-  <project name="TheLoonyBin/vendor_widevine" path="vendor/widevine" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_asus" path="vendor/asus" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_broadcom" path="vendor/broadcom" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_elan" path="vendor/elan" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_imgtec" path="vendor/imgtec" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_invensense" path="vendor/invensense" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_nvidia" path="vendor/nvidia" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_nxp" path="vendor/nxp" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_qcom" path="vendor/qcom" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="kk4.4" />
+  <project name="TheLoonyBin/proprietary_vendor_widevine" path="vendor/widevine" remote="github" revision="kk4.4" />
 </manifest>
 
