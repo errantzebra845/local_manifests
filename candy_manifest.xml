@@ -25,7 +25,7 @@
   <project name="rc420head/device_samsung_p5100" path="device/samsung/p5100" remote="github" revision="ck44" />
   <project name="rc420head/device_samsung_p5110" path="device/samsung/p5110" remote="github" revision="ck44" /> 
   <project name="SlimRoms/hardware_samsung" path="hardware/samsung" remote="github" revision="kk4.4" />
-  <project name="rc420head/device_samsung_p3100" path="device/samsung/p5100" remote="github" revision="ck44" />
-  <project name="rc420head/device_samsung_p3110" path="device/samsung/p5110" remote="github" revision="ck44" /> 
+  <project name="rc420head/device_samsung_p3100" path="device/samsung/p3100" remote="github" revision="ck44" />
+  <project name="rc420head/device_samsung_p3110" path="device/samsung/p3110" remote="github" revision="ck44" /> 
 </manifest>
 
