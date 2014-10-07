@@ -1,0 +1,2 @@
+. build/envsetup.sh && make clobber && time brunch p5100 -j8 && time brunch p5110 -j8 && time brunch p3100 -j8 && time brunch p3110 -j8 
+
